@@ -1,0 +1,12 @@
+code {
+  white-space: pre-wrap;
+  &:focus-visible {
+    outline: none;
+  }
+}
+
+// ::ng-deep app-test {
+//   .header {
+//     font-weight: 800;
+//   }
+// }
